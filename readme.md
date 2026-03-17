@@ -9,7 +9,7 @@
 Desenvolvimento de uma tela de login para um aplicativo destinado ao checkpoint 1 de <b>Mobile Development & IOT</b> e próximas atividades. A interface apresenta design clean e distribuição de elementos que promovem uma melhor experiência de usuário (UX).
 
 ## TELA DESENVOLVIDA
-![Print screen]('./image.png')
+![Print screen]('./assets/image.png')
 
 ## COMPONENTE
 `LoginInterface.tsx`
