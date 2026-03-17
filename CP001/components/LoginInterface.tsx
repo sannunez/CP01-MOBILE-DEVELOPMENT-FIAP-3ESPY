@@ -27,7 +27,7 @@ export default function LoginInterface(){
                 <Text style={styles.subtitulos}>Email</Text>
                 <TextInput
                     style = {styles.textInput}
-                    placeholder="Email de Aluno"
+                    placeholder="rm000000@fiap.com.br"
                     value={email}
                     onChangeText={setEmail}
                     >
@@ -36,7 +36,7 @@ export default function LoginInterface(){
                 <Text style={styles.subtitulos}>Senha</Text>
                 <TextInput
                     style = {styles.textInput}
-                    placeholder="Senha"
+                    placeholder="•••••••••"
                     value={senha}
                     onChangeText={setSenha}
 
